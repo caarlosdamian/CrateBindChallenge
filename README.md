@@ -1,6 +1,13 @@
 # Ruby Programmer - Exercise 1
 
 ## Getting Started
+1.clone repository
+
+2.run 
+```
+bundle install
+```
+
 Exercise description
 
 When user gives an arabic number, the system shows the english phrase of the
