@@ -7,6 +7,15 @@
 ```
 bundle install
 ```
+3.to run the program
+```
+arabic_numbers.rb
+```
+4.to run the test
+```
+arabic_numbers_test.rb
+```
+
 
 Exercise description
 
