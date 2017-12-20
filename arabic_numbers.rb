@@ -16,7 +16,8 @@ class ArabicNumbers
   end
 
   def singles
-    ['one ', 'two ', 'three ', 'four ', 'five ', 'six ', 'seven ', 'eight ', 'nine ']
+    ['one ', 'two ', 'three ', 'four ', 'five ', 'six ', 'seven ', 'eight ',
+     'nine']
   end
 
   def convert_millions(left)
